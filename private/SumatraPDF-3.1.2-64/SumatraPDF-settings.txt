@@ -30,7 +30,7 @@ ChmUI [
 ]
 ExternalViewers [
 ]
-ShowMenubar = false
+ShowMenubar = true
 ReloadModifiedDocuments = true
 FullPathInTitle = true
 ZoomLevels = 8.33 12.5 18 25 33.33 50 66.67 75 100 125 150 200 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
@@ -49,7 +49,7 @@ CustomScreenDPI = 0
 
 RememberStatePerDocument = true
 UiLanguage = en
-ShowToolbar = true
+ShowToolbar = false
 ShowFavorites = false
 AssociateSilently = false
 CheckForUpdates = true
@@ -57,8 +57,8 @@ RememberOpenedFiles = true
 EnableTeXEnhancements = true
 DefaultDisplayMode = continuous facing
 DefaultZoom = fit page
-WindowState = 2
-WindowPos = 89 344 1331 1734
+WindowState = 1
+WindowPos = 1074 74 2462 1789
 ShowToc = true
 SidebarDx = 362
 TocDy = 1642
@@ -67,24 +67,126 @@ UseTabs = false
 
 FileStates [
 	[
-		FilePath = V:\khung\interview\trunk\bose-principal\2022-Benefits-Summary.pdf
+		FilePath = V:\khung\zeus\trunk\gxp\adsp-21591-593-594-adsp-sc591-sc592-sc594.pdf
 		Favorites [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 1
+		OpenCount = 17
 		UseDefaultState = false
-		DisplayMode = continuous facing
-		ScrollPos = -1 33
+		DisplayMode = facing
+		ScrollPos = -1 -1
 		PageNo = 3
 		Zoom = fit page
 		Rotation = 0
+		WindowState = 1
+		WindowPos = 1074 74 2462 1789
+		ShowToc = false
+		SidebarDx = 362
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = V:\khung\zeus\trunk\Block_Diagram_Zeus_AD_Mule_Rev3.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 5
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 95
+		PageNo = 1
+		Zoom = 150
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 867 223 1929 1816
+		ShowToc = false
+		SidebarDx = 362
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = V:\khung\zeus\trunk\MCAPI-Deep-Dive-2022-10-20.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 6
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 62
+		PageNo = 2
+		Zoom = fit width
+		Rotation = 0
 		WindowState = 2
-		WindowPos = 89 344 1331 1734
+		WindowPos = 12168 419 2318 3000
+		ShowToc = false
+		SidebarDx = 362
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = V:\khung\kalimba_class\trunk\kalimba_class_setup.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 3
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 19367 176 2318 3000
+		ShowToc = false
+		SidebarDx = 362
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = V:\khung\zeus\trunk\Zeus_882703_0010ck1_20221020_1809.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 5
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 25
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 12393 395 1627 2120
 		ShowToc = true
 		SidebarDx = 362
 		DisplayR2L = false
 		ReparseIdx = 0
+		TocState = 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100 102 104 106 108 110 112 114 116 118 120 122 124
+	]
+	[
+		FilePath = V:\khung\zeus\trunk\gxp\PRM 1.4 sc58x-2158x-prm.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 6
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 -1
+		PageNo = 81
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 362 0 1627 2120
+		ShowToc = true
+		SidebarDx = 362
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 3 15 22 46 119 214 218 267 320 346 364 397 407 410 459 482 497 520 541 563 606 609 618 625 651 654 674 707 714 768 776 780 814
 	]
 	[
 		FilePath = V:\khung\zeus\trunk\gxp\HRM 0.3 adsp-2159x-sc591-592-594-hrm.pdf
@@ -102,35 +204,315 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 7
+		OpenCount = 10
 		UseDefaultState = false
 		DisplayMode = facing
+		ScrollPos = -1 -1
+		PageNo = 237
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 362 0 1627 2120
+		ShowToc = true
+		SidebarDx = 362
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 3 14 27 71 85 101 127 201 222 276 349 369 402 485 512 536 601 652 665 702 721 827 829 886 945 1004 1099 1155 1198 1265 1314 1599 1714 1793 1848 1890 1960 2045 2080 2131 2136 2160 2270 2296 2311 2352 2430 2485 2615 2828 2864 2907
+	]
+	[
+		FilePath = V:\khung\zeus\trunk\Magic_Bullet_Requirements.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 357
+		PageNo = 13
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1285 380 2022 1586
+		ShowToc = false
+		SidebarDx = 362
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = v:\khung\zeus\trunk\remco-software-installation-tasks.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 362 0 1627 2120
+		ShowToc = false
+		SidebarDx = 362
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Analog Devices\CrossCore Embedded Studio 2.10.1\Docs\CrossCoreEmbeddedStudio_2.10.1_Release_Notes.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
 		ScrollPos = -1 -1
 		PageNo = 1
 		Zoom = fit page
 		Rotation = 0
 		WindowState = 2
-		WindowPos = 89 344 1331 1734
+		WindowPos = 1342 338 2134 1734
 		ShowToc = true
-		SidebarDx = 362
+		SidebarDx = 416
 		DisplayR2L = false
 		ReparseIdx = 0
-		TocState = 3 601 652 829
 	]
 	[
-		FilePath = V:\khung\zeus\trunk\gxp\adsp-21591-593-594-adsp-sc591-sc592-sc594.pdf
+		FilePath = V:\khung\secret\trunk\hopkinton-school-district-returning-student-registration-nathan.pdf
 		Favorites [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 6
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous facing
-		ScrollPos = -1 611
-		PageNo = 7
-		Zoom = 100
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 12904 228 4685 2992
+		ShowToc = false
+		SidebarDx = 362
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = V:\khung\secret\trunk\hopkinton-school-district-returning-student-registration-anissa.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 12904 228 4685 2992
+		ShowToc = false
+		SidebarDx = 362
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = V:\khung\skunk\trunk\submission-nathan.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
 		Rotation = 0
 		WindowState = 1
+		WindowPos = 15589 1142 1832 1916
+		ShowToc = false
+		SidebarDx = 362
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = V:\khung\skunk\trunk\submission-anissa.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 14449 773 2242 2510
+		ShowToc = false
+		SidebarDx = 362
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = V:\khung\zeus\trunk\meeting-2022-10-18-hongsheng.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 125
+		Rotation = 270
+		WindowState = 1
+		WindowPos = 14006 0 3734 3600
+		ShowToc = false
+		SidebarDx = 362
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = V:\khung\zeus\trunk\Block_Diagram_Theseus_Rev00_011022.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 14006 0 3734 3600
+		ShowToc = true
+		SidebarDx = 362
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = V:\khung\bose\trunk\remco-SAP-Timesheet-Submission-Process.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 128
+		PageNo = 7
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 3840 0 741 960
+		ShowToc = false
+		SidebarDx = 362
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\kh1055152\OneDrive - Bose Corporation\Desktop\Doc Oct 17, 2022, 4.45.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 602 461 1367 1434
+		ShowToc = false
+		SidebarDx = 362
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\kh1055152\OneDrive - Bose Corporation\Desktop\order.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 52
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1260 445 741 960
+		ShowToc = false
+		SidebarDx = 362
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\kh1055152\OneDrive - Bose Corporation\Desktop\Doc Oct 17, 2022, 4.42.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1360 385 1258 1476
+		ShowToc = false
+		SidebarDx = 362
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = V:\khung\secret\trunk\tax-us-2021-Hung-2021-Final.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 602 461 1367 1434
+		ShowToc = true
+		SidebarDx = 362
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\kh1055152\OneDrive - Bose Corporation\Desktop\ConfirmationStatement.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
 		WindowPos = 89 344 1331 1734
 		ShowToc = false
 		SidebarDx = 362
@@ -138,20 +520,20 @@ FileStates [
 		ReparseIdx = 0
 	]
 	[
-		FilePath = V:\khung\zeus\trunk\gxp\PRM 1.4 sc58x-2158x-prm.pdf
+		FilePath = V:\khung\interview\trunk\bose-principal\2022-Benefits-Summary.pdf
 		Favorites [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 5
+		OpenCount = 0
 		UseDefaultState = false
-		DisplayMode = facing
-		ScrollPos = -1 -1
-		PageNo = 1
+		DisplayMode = continuous facing
+		ScrollPos = -1 33
+		PageNo = 3
 		Zoom = fit page
 		Rotation = 0
 		WindowState = 2
-		WindowPos = 1627 300 1331 1734
+		WindowPos = 89 344 1331 1734
 		ShowToc = true
 		SidebarDx = 362
 		DisplayR2L = false
@@ -163,7 +545,7 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 1
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous facing
 		ScrollPos = -1 -1
@@ -184,7 +566,7 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 1
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous facing
 		ScrollPos = -1 -1
@@ -214,46 +596,6 @@ FileStates [
 		WindowState = 2
 		WindowPos = 11734 221 5301 2971
 		ShowToc = true
-		SidebarDx = 625
-		DisplayR2L = false
-		ReparseIdx = 0
-	]
-	[
-		FilePath = V:\khung\zeus\trunk\Magic_Bullet_Requirements.pdf
-		Favorites [
-		]
-		IsPinned = false
-		IsMissing = false
-		OpenCount = 0
-		UseDefaultState = false
-		DisplayMode = continuous facing
-		ScrollPos = -1 -1
-		PageNo = 1
-		Zoom = fit page
-		Rotation = 0
-		WindowState = 2
-		WindowPos = 11734 221 5301 2971
-		ShowToc = false
-		SidebarDx = 625
-		DisplayR2L = false
-		ReparseIdx = 0
-	]
-	[
-		FilePath = C:\Users\kh1055152\OneDrive - Bose Corporation\Desktop\order.pdf
-		Favorites [
-		]
-		IsPinned = false
-		IsMissing = false
-		OpenCount = 1
-		UseDefaultState = false
-		DisplayMode = continuous facing
-		ScrollPos = -1 126
-		PageNo = 1
-		Zoom = fit page
-		Rotation = 0
-		WindowState = 2
-		WindowPos = 11734 221 5301 2971
-		ShowToc = false
 		SidebarDx = 625
 		DisplayR2L = false
 		ReparseIdx = 0
@@ -344,7 +686,7 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 1
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous facing
 		ScrollPos = 210 5
@@ -464,7 +806,7 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 2
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous
 		ScrollPos = -1 216
@@ -472,7 +814,7 @@ FileStates [
 		Zoom = 125
 		Rotation = 0
 		WindowState = 1
-		WindowPos = 0 0 3428 2300
+		WindowPos = 0 0 3428 2120
 		ShowToc = false
 		SidebarDx = 729
 		DisplayR2L = false
@@ -504,7 +846,7 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 1
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous facing
 		ScrollPos = -1 -1
@@ -524,7 +866,7 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 1
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous
 		ScrollPos = -1 -1
@@ -744,7 +1086,7 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 1
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous facing
 		ScrollPos = -1 630
@@ -778,26 +1120,6 @@ FileStates [
 		DisplayR2L = false
 		ReparseIdx = 0
 		TocState = 1 31 77 97
-	]
-	[
-		FilePath = V:\khung\skunk\trunk\submission-anissa.pdf
-		Favorites [
-		]
-		IsPinned = false
-		IsMissing = false
-		OpenCount = 0
-		UseDefaultState = false
-		DisplayMode = continuous facing
-		ScrollPos = -1 318
-		PageNo = 7
-		Zoom = fit page
-		Rotation = 0
-		WindowState = 1
-		WindowPos = 740 84 1832 1916
-		ShowToc = false
-		SidebarDx = 399
-		DisplayR2L = false
-		ReparseIdx = 0
 	]
 	[
 		FilePath = V:\khung\secret\trunk\paystub-kevin-mathworks-2022-entire-year.pdf
@@ -12044,26 +12366,6 @@ FileStates [
 		ReparseIdx = 0
 	]
 	[
-		FilePath = V:\khung\secret\trunk\tax-us-2021-Hung-2021-Final.pdf
-		Favorites [
-		]
-		IsPinned = false
-		IsMissing = false
-		OpenCount = 0
-		UseDefaultState = false
-		DisplayMode = continuous facing
-		ScrollPos = -1 174
-		PageNo = 5
-		Zoom = fit page
-		Rotation = 0
-		WindowState = 2
-		WindowPos = 2448 114 927 1040
-		ShowToc = true
-		SidebarDx = 245
-		DisplayR2L = false
-		ReparseIdx = 0
-	]
-	[
 		FilePath = V:\khung\secret\trunk\Hung-2021-Final.pdf
 		Favorites [
 		]
@@ -16067,6 +16369,6 @@ FileStates [
 SessionData [
 ]
 TimeOfLastUpdateCheck = 0 0
-OpenCountWeek = 615
+OpenCountWeek = 616
 
 # Settings after this line have not been recognized by the current version
